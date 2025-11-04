@@ -11,7 +11,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_getResourceText
-// @resource     enhanceStyles https://https://github.com/Aquilonar/bilibili-study-mod/blob/main/bilibili-study-mod_styles.css
+// @resource     enhanceStyles https://raw.githubusercontent.com/Aquilonar/bilibili-study-mod/refs/heads/main/bilibili-study-mod_styles.css
 // ==/UserScript==
 
 (function() {
