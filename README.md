@@ -25,8 +25,8 @@ A feature-rich auxiliary script tailored for Bilibili's web-based online courses
 - **Cross-Browser Auto-Play**: Optimized for Firefox and other browsers, auto-plays videos after loading; triggers "simulated click playback" as a fallback if auto-play fails.
 
 ### 2. Distraction Blocking
-- **One-Click Recommendation Cleanup**: Hides "rec-list" and "recommend-list-v1" modules on the playback page to eliminate distractions from irrelevant videos.
-- **Simplified Chapter List**: Increases the chapter list height from default to 800px (reduces scrolling) and adds gray serial numbers to each chapter for quick定位.
+- **One-Click Recommendation Cleanup**: Hides recommend modules on the playback page to eliminate distractions from irrelevant videos.
+- **Simplified Chapter List**: Increases the chapter list height from default to 800px (reduces scrolling) and adds gray serial numbers to each chapter for quick to locate.
 
 ### 3. Subtitle & Title Optimization
 - **Auto-Enable Subtitles**: Automatically detects and enables subtitles (prioritizes Chinese/AI subtitles) after video loading, with 3 retries to fix the "subtitle not enabled after video switch" issue.
@@ -95,7 +95,7 @@ You’re welcome to contribute to the project in the following ways:
 2. **Code Contributions**: Fork the repository and submit a Pull Request; it’s recommended to discuss the modification plan in Issues first.
 3. **Feature Expansion**: For new features (e.g., video progress memory, note export), submit a "Feature Proposal" Issue to discuss implementation details together.
 
-Derived versions must retain the original copyright notice (Author: Promesyne). Thanks for supporting open-source collaboration!
+Derived versions must retain the original copyright notice (Author: Aquilonar). Thanks for supporting open-source collaboration!
 
 
 ## 📄 License
@@ -120,7 +120,7 @@ This project is open-sourced under the [MIT License](LICENSE), allowing free use
 - **跨浏览器自动播放**：优化 Firefox 等浏览器兼容性，视频加载后自动播放，失败时触发「模拟点击播放」兜底
 
 ### 2. 干扰信息屏蔽
-- **一键清理推荐**：隐藏播放页「rec-list」「recommend-list-v1」推荐模块，消除无关视频诱惑
+- **一键清理推荐**：隐藏播放页推荐模块，消除无关视频诱惑
 - **简洁选集界面**：选集列表高度从默认提升至 800px，减少滚动操作；同时为每个选集添加灰色序号，快速定位章节
 
 ### 3. 字幕与标题优化
@@ -190,7 +190,7 @@ A3：可能是视频无字幕资源，或字幕加载延迟。可手动点击播
 2. **代码贡献**：Fork 仓库后提交 Pull Request，建议先在 Issues 中沟通修改方案
 3. **功能扩展**：如需添加新功能（如视频进度记忆、笔记导出），可先提交「功能提案」Issue，共同讨论实现细节
 
-衍生版本需保留原始版权声明（作者：Promesyne），感谢支持开源协作！
+衍生版本需保留原始版权声明（作者：Aquilonar），感谢支持开源协作！
 
 
 ## 📄 许可证

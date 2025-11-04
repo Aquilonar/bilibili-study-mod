@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  增强 Bilibili 视频页面体验，支持屏蔽推荐、调整选集高度、自动开启字幕（通过 <title> 标签和 .video-pod 变化检测选集切换）、全屏标题实时同步、自动播放（优化火狐兼容性）、播放倍速控制（突破2倍速上限，记忆匹配作者倍速并自动切换）、增强模式控制，修复切换视频时字幕未启用问题
-// @author       Promesyne
+// @author       Aquilonar
 // @match        https://www.bilibili.com/video/*
 // @match        https://www.bilibili.com/video/*/course/*
 // @icon         https://www.google.com/s2/favicons?domain=bilibili.com
